@@ -1,7 +1,7 @@
 # 💫About Me :
 Hello! My name is Gianluca, i'm a web developer from Italy.
 I'm actually working on consolidating my coding skills as a full stack dev.
-I'm a life long learner, always trying to go beyond my limits for reaching my goals.
+I'm a long life learner, always trying to go beyond my limits for reaching my goals.
 
 
 ## 🌐Socials
